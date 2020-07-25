@@ -1,0 +1,3 @@
+Tool to make random files, using SecureRandom.
+
+Use random files for KeePass keyfiles, shredding disk storage, or anything else that you want. NO permissions, NO ads, NO trackers, Open Source.

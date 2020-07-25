@@ -1,0 +1,1 @@
+Make random files with SecureRandom. For KeePass keyfile, shredding disk, etc
